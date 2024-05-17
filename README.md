@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jezzesiixx/jezzesiixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hello! I am Jessica Camargo and and I am an a Biotechnology engineer
 I am learning to programming to apply my knowledges in healthy area. 
 
